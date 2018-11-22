@@ -1,0 +1,63 @@
+.user-box{
+    background: #ececec ;
+    .center-container{
+        background: #fd465f;
+        background: -webkit-linear-gradient(to bottom, #fd465f, #fc5e9f); 
+        background: linear-gradient(to bottom, #fd465f, #fc5e9f);
+        padding-bottom: .26rem ;
+        box-shadow: 0 0 .1rem 0 #fc5e9f ;
+        .top{
+            height: .38rem ;
+            display: flex ;
+            justify-content: center ;
+            align-items: center ;
+            position: relative ;
+            box-sizing: border-box ;
+            .back{
+                background: none ;
+                border-style: none ;
+                position: absolute ;
+                left: .1rem ;
+                i{
+                    font-size: .17rem ;
+                    color: #fff ;
+                }
+            }
+            .home{
+                background: none ;
+                border-style: none ;
+                position: absolute ;
+                right: .1rem ;
+                i{
+                    font-size: .2rem ;
+                    color: #fff ;
+                }
+            }
+            .top-cont{
+                font: .16rem/.24rem "" ;
+                color: #fff ;
+            }
+        }
+        .portraint{
+            display: flex ;
+            justify-content: center ;
+            margin-top: .2rem ;
+            .userPic{
+                font-size: .6rem ;
+                color: #fff ;
+            }
+        }
+        .user-h{
+            display: flex ;
+            justify-content: center ;
+            align-items: center ;
+            margin-top: .16rem ;
+            .operation{
+                span{
+                    color: #fff ;
+                    font: .2rem/.26rem "" ;
+                }
+            }
+        }
+    }
+}

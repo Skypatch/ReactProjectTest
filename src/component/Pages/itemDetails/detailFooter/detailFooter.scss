@@ -1,0 +1,40 @@
+@import '../../../../stylesheets/_base' ;
+.detailFooter-box{
+    position: fixed ;
+    bottom: 0 ;
+    left: 0 ;
+    width: 100% ;
+    height: .56rem ;
+    border-top: solid .01rem #ececec ;
+    .d-footer{
+        height: 100% ;
+        display: flex ;
+        justify-content: space-around ;
+        align-items: center ;
+        padding: 0 .1rem ;
+        .back{
+            background: #fff ;
+            border-style: none ;
+            border-radius: 50% ;
+            font: .14rem/.4rem "" ;
+            border: solid .01rem #ccc ;
+            color: #777 ;
+            padding: 0 .05rem ;
+        }
+        .single-price{
+            text-align: center ;
+            width: 40% ;
+            font: .16rem/.16rem "" ;
+        }
+        .buyNow{
+            width: 1.6rem ;
+            text-align: center ;
+            border-style: none ;
+            padding: .06rem 0 ;
+            border-radius: 1rem ;
+            font: .16rem/.16rem "" ;
+            color: #fff ;
+            background: $main-color ;
+        }
+    }
+}

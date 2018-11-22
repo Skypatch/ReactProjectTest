@@ -1,0 +1,41 @@
+@import '../../stylesheets/_base.scss';
+.homeNav-box{
+    width: 100% ;
+    overflow: hidden;
+    height: .32rem ;
+    background: #fff ;
+   .swiper-container{
+       width: 100% ;
+       .swiper-wrapper{
+           .swiper-slide{
+               text-align: center ;   
+               .slide-cont{
+                   height: 100% ;
+                   display: inline-block ;
+                   position: relative ;
+                    span{
+                        font: .13rem/.32rem "" ;
+                        color: #666 ;
+                    }
+                    .line{
+                        position: absolute ;
+                        bottom: 0 ;
+                        left: 0 ;
+                        width: 100% ;
+                        height: .02rem ;
+                    }
+               }
+           }
+           .swiper-slide:nth-child(1){
+            .slide-cont{
+                span{
+                    color: $main-color ;
+                }
+                .line{
+                    background: $main-color ;
+                }
+            }
+           }
+       }
+   }
+}

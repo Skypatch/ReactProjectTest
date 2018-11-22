@@ -1,0 +1,37 @@
+@import '../../../../stylesheets/_base' ;
+.carCount-box{
+    width: 100% ;
+    height: .54rem ;
+    background: #fff ;
+    position: fixed ;
+    bottom: .51rem ;
+    border-top: solid .01rem #ccc ;
+    .view{
+        height: 100% ;
+        display: flex ;
+        justify-content: space-between ;
+        align-items: center ;
+        .count{
+            height: .2rem ;
+            margin-left: .3rem ;
+            .c-cont{
+                font: .12rem/.2rem "" ;
+                color: #9c9c9c ;
+                margin-right: .05rem ;
+            }
+            .countNum{
+                color: $main-color ;
+                font: 700 .18rem/.2rem "" ;
+            }
+        }
+        .pay{
+            border-style: none ;
+            background: $main-color ;
+            color: #fff ;
+            font: .14rem/.32rem "" ;
+            padding: 0 .3rem ;
+            border-radius: .14rem ;
+            margin-right: .1rem ;
+        }
+    }
+}

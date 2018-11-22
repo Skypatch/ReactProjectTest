@@ -1,0 +1,30 @@
+.search-container{
+    height: .41rem ;
+    display: flex ;
+    justify-content: space-between ;
+    align-items: center ;
+    box-sizing: border-box ;
+    padding: .03rem .16rem 0;
+    background: #fff ;
+    .sch{
+        display: flex ;
+        justify-content: center ;
+        align-items: center ;
+        width: 88% ;
+        height: 70% ;
+        border-radius: .2rem ;
+        background: #f5f5f5 ;
+        box-shadow: 0 0 .01rem .01rem #e6e6e6 inset ;
+        input{
+            width: 90% ;
+            height: 90% ;
+            border-style: none ;
+            background: none ;
+            font: .13rem/.13rem "" ;
+        }
+    }
+    i{
+        font-size: .24rem ;
+        color: rgb(173, 173, 173) ;
+    }
+}

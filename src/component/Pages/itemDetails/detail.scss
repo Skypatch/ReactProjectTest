@@ -1,0 +1,86 @@
+@import '../../../stylesheets/_base';
+.detail-box{
+    background: #eee ;
+    .detail-area{
+        .imgBox{
+            background: #fff ;
+            .swiper-wrapper{
+                    .goodsImg{
+                    width: 100% ;
+                    text-align: center ;
+                    background: #fff ;
+                    border-bottom: solid .01rem #ececec ;
+                    img{
+                        display: inline-block ;
+                        width: 80% ;
+                    }
+                }
+            }  
+        }
+        .goods-mes{
+            margin-bottom: .14rem ;
+            padding-bottom: .14rem ;
+            background: #fff ;
+            .g-m-top{
+                padding: .14rem ;
+                .disc-price{
+                    display: inline-block ;
+                    b{
+                        display: inline-block ;
+                        font: 700 .24rem/.24rem "" ;
+                        color: $main-color ;
+                        margin-top: .02rem ;
+                    }
+                    strong{
+                        display: inline-block ;
+                        color: #fff ;
+                        background: $main-color ;
+                        padding: .02rem ;
+                        font: 700 .12rem/.12rem "" ;
+                        border-radius: .05rem ;
+                        margin-left: .02rem ;
+                        vertical-align: text-bottom ;
+                    }
+                }
+                .single-price{
+                    font: .14rem/.14rem "" ;
+                    color: #777 ;
+                    margin-left: .1rem ;
+                }
+            }
+            .g-m-top::before{
+                content: '' ;
+                display: table ;
+            }
+            .g-m-top::after{
+                content: '' ;
+                clear: both ;
+                display: block ;
+            }
+            .g-m-c{
+                span{
+                    font: .16rem/.18rem "" ;
+                    text-decoration: line-through ;
+                    padding-left: .18rem ;
+                }
+            }
+        }
+        .goods-demo{
+            font: .14rem/.14rem "" ;
+            padding: .14rem ;
+            background: #fff ;
+            margin-bottom: .1rem ;
+            p{
+                display: inline-block ;
+                color: $main-color ;
+                font-weight: 700 ;
+            }
+        }
+        .detail-footer{
+            text-align: center ;
+            padding: .14rem ;
+            background: #fff ;
+            font: .18rem/.2rem "" ;
+        }
+    }
+}

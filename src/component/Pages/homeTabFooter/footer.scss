@@ -1,0 +1,41 @@
+.footer-container{
+    min-height: 1.9rem ;
+    margin: .1rem 0 1.2rem 0 ;
+    background: #fff ;
+    box-sizing: border-box ;
+    padding: 0 .1rem ;
+    img{
+        width: 100% ;
+        margin-top: .1rem ;
+    }
+    .modelChange{
+        display: flex ;
+        justify-content: space-around ;
+        align-content: center ;
+        margin-top: .16rem ;
+        a{
+            text-align: center ;
+            font: .16rem/.32rem "" ;
+            color: #999 ;
+            border: solid .01rem #cecece ;
+            border-radius: .2rem ;
+            &.active:nth-child(1){
+                color: #ec1e85 ;
+            }
+        }
+        .phone{
+            width: .87rem ;
+        }
+        .pc{
+            width: .87rem ;
+        }
+    }
+    .copyright{
+        text-align: center ;
+        display: inline-block ;
+        width: 100% ;
+        margin-top: .3rem ;
+        font: .15rem/.28rem "" ;
+        color: #a5a5a5 ;
+    }
+}

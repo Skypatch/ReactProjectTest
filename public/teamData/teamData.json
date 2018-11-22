@@ -1,0 +1,366 @@
+{
+    "Nav": [
+        {
+            "id": 1,
+            "title": "推荐"
+        },
+        {
+            "id": 2,
+            "title": "母婴健康"
+        },
+        {
+            "id": 3,
+            "title": "鞋类"
+        },
+        {
+            "id": 4,
+            "title": "家居"
+        },
+        {
+            "id": 5,
+            "title": "美妆"
+        },
+        {
+            "id": 6,
+            "title": "饰品配饰"
+        },
+        {
+            "id": 7,
+            "title": "礼品箱包"
+        },
+        {
+            "id": 8,
+            "title": "食品保健"
+        },
+        {
+            "id": 9,
+            "title": "数码家电"
+        },
+        {
+            "id": 10,
+            "title": "下期预告"
+        }
+    ],
+    "Content": {
+        "Home": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp6.jmstatic.com/product/004/661/4661122_std/4661122_1000_1000.jpg?v=1542339466&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】红心蜜柚2个装约6斤",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥42",
+                "disc": "¥27.9",
+                "nodisc": "¥58",
+                "itemType": "Home"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/624/4624798_std/4624798_1000_1000.jpg?v=1541673548&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】憨豆熊 每日坚果 豆豆果仁25g*11袋",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥30.5",
+                "disc": "¥25.9",
+                "nodisc": "¥66",
+                "itemType": "Home"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/641/4641184_std/4641184_1000_1000.jpg?v=1542088026&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】简舍物语本色系列本色抽纸18包装",
+                "group_name_tag": "[2人团]",
+                "single_price": "",
+                "disc": "¥32.9",
+                "nodisc": "¥49.9",
+                "itemType": "Home"
+            }
+        ],
+        "Health": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/637/4637786_std/4637786_1000_1000.jpg?v=1541571874&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】罗町秋冬棉套装卡通印花家居服",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥79",
+                "disc": "¥30.9",
+                "nodisc": "¥198",
+                "itemType": "Health"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/001/421/1421025_std/1421025_1000_1000.jpg?v=1489049984&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】尤妮佳纸尿裤L54(9-14kg)",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥89",
+                "disc": "¥82",
+                "nodisc": "¥149",
+                "itemType": "Health"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp4.jmstatic.com/product/001/341/1341620_std/1341620_1000_1000.jpg@base@tag=imgScale&w=440&q=90?v=1502074310",
+                "short_name": "【手机专享】日本•花王拉拉裤XL38片",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥99",
+                "disc": "¥85",
+                "nodisc": "¥170",
+                "itemType": "Health"
+            }
+        ],
+        "Shoe": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/623/4623486_std/4623486_1000_1000.jpg?v=1540546431&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】艾微妮冬季新款兔耳朵保暖雪地靴",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥49",
+                "disc": "¥39",
+                "nodisc": "¥158",
+                "itemType": "Shoe"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/623/4623636_std/4623636_1000_1000.jpg?v=1540546469&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】蝶恋霏秋冬新款保暖休闲雪地靴",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥50",
+                "disc": "¥39",
+                "nodisc": "¥158",
+                "itemType": "Shoe"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp6.jmstatic.com/product/004/653/4653066_std/4653066_1000_1000.jpg?v=1542076107&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】oluz拼色圆头图案系带休闲短靴",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥69",
+                "disc": "¥49",
+                "nodisc": "¥299",
+                "itemType": "Shoe"
+            }
+        ],
+        "House": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/624/4624682_std/4624682_1000_1000.jpg?v=1540694425&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】可使用红包5片洗碗海绵刷锅神器",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥36",
+                "disc": "¥23.9",
+                "nodisc": "¥59",
+                "itemType": "House"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/641/4641190_std/4641190_1000_1000.jpg?v=1542074443&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】简舍 原生竹浆本色抽纸16包装/箱",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥45",
+                "disc": "¥29.9",
+                "nodisc": "¥69.9",
+                "itemType": "House"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp6.jmstatic.com/product/003/623/3623434_std/3623434_1000_1000.jpg?v=1521176662&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】10包20包30包丝飘原生木浆抽纸",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥54.9",
+                "disc": "¥31.9",
+                "nodisc": "",
+                "itemType": "House"
+            }
+        ],
+        "Beauty": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/864/3864142_std/3864142_1000_1000.jpg?v=1507886281&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】蒂佳婷银黑色药丸面膜5片",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥79",
+                "disc": "¥69",
+                "nodisc": "¥180",
+                "itemType": "Beauty"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/359/3359272_std/3359272_1000_1000.jpg?v=1488424928&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】雪花秀基础水乳四件套",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥99",
+                "disc": "¥59",
+                "nodisc": "",
+                "itemType": "Beauty"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/002/453/2453550_std/2453550_1000_1000.jpg?v=1463986687&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】AHC B5玻尿酸爽肤水神仙水",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥88",
+                "disc": "¥69",
+                "nodisc": "¥192",
+                "itemType": "Beauty"
+            }
+        ],
+        "Decoration": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/550/3550308_std/3550308_1000_1000.jpg?v=1542360178&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】蓝色大海的传说锁骨链多款可选",
+                "group_name_tag": "[2人团]",
+                "single_price": "",
+                "disc": "¥25",
+                "nodisc": "¥199",
+                "itemType": "Decoration"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/837/3837080_std/3837080_1000_1000.jpg?v=1526974643&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】心跳短款项链跳动百搭锁骨链",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥69",
+                "disc": "¥26",
+                "nodisc": "¥169",
+                "itemType": "Decoration"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/515/4515196_std/4515196_1000_1000.jpg?v=1539064967&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】爆闪满钻心形耳钉长耳坠",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥49",
+                "disc": "¥25.9",
+                "nodisc": "¥199",
+                "itemType": "Decoration"
+            }
+        ],
+        "Gift": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/364/4364930_std/4364930_1000_1000.jpg?v=1528256607&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】柒格格包包菱格链条包女小方包",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥99",
+                "disc": "¥48.9",
+                "nodisc": "¥249",
+                "itemType": "Gift"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/351/3351882_std/3351882_1000_1000.jpg?v=1540802682&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】AIM自动扣皮带商务牛皮裤带腰带男",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥89",
+                "disc": "¥39",
+                "nodisc": "¥568",
+                "itemType": "Gift"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/058/4058358_std/4058358_1000_1000.jpg?v=1521090342&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】莫妮卡撞色格子圆筒斜挎手提女包",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥89",
+                "disc": "¥49.9",
+                "nodisc": "¥299",
+                "itemType": "Gift"
+            }
+        ],
+        "Food": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp6.jmstatic.com/product/004/624/4624794_std/4624794_1000_1000.jpg?v=1542353298&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】憨豆熊 蟹黄瓜子仁120g 炒货零食",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥29",
+                "disc": "¥24.9",
+                "nodisc": "",
+                "itemType": "Food"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/091/4091024_std/4091024_1000_1000.jpg?v=1518055028&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】印尼进口richeese饼干5IN1组合",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥32.8",
+                "disc": "¥27.9",
+                "nodisc": "¥58",
+                "itemType": "Food"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/577/4577950_std/4577950_1000_1000.jpg?v=1542346973&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】南国食品三款零食组合640g",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥29.9",
+                "disc": "¥25.9",
+                "nodisc": "¥69.9",
+                "itemType": "Food"
+            }
+        ],
+        "Elec": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/714/3714976_std/3714976_1000_1000.jpg?v=1542090704&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】BEPERFECT 三代竹炭贝壳硅胶洁面仪",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥79",
+                "disc": "¥59",
+                "nodisc": "¥499",
+                "itemType": "Elec"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp5.jmstatic.com/product/003/184/3184362_std/3184362_1000_1000.jpg?v=1504600803&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】BEPERFECT 小巨蛋热喷蒸脸器",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥69",
+                "disc": "¥59",
+                "nodisc": "¥399",
+                "itemType": "Elec"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/478/4478656_std/4478656_1000_1000.jpg?v=1540369284&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】魔胄 苹果iphone6s/7/8果萌手机软壳",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥53.8",
+                "disc": "¥19.9",
+                "nodisc": "",
+                "itemType": "Elec"
+            }
+        ],
+        "Next": [
+            {
+                "id": 1,
+                "imgSrc": "http://mp5.jmstatic.com/product/002/744/2744652_std/2744652_1000_1000.jpg?v=1471500175&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】悦己美冰感修护海绵泡泡 80ml",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥168",
+                "disc": "¥29",
+                "nodisc": "",
+                "itemType": "Next"
+            },
+            {
+                "id": 2,
+                "imgSrc": "http://mp6.jmstatic.com/product/004/418/4418580_std/4418580_1000_1000.jpg?v=1531818077&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】海底小纵队拼装大颗粒积木玩具",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥198",
+                "disc": "¥49.9",
+                "nodisc": "",
+                "itemType": "Next"
+            },
+            {
+                "id": 3,
+                "imgSrc": "http://mp5.jmstatic.com/product/004/480/4480502_std/4480502_1000_1000.jpg?v=1534842319&imageView2/2/w/440/q/90",
+                "short_name": "【手机专享】冈本003润滑剂润滑油润滑液60ml",
+                "group_name_tag": "[2人团]",
+                "single_price": "单买价¥199",
+                "disc": "¥59",
+                "nodisc": "",
+                "itemType": "Next"
+            }
+        ]
+    }
+}

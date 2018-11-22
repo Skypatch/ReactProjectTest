@@ -1,0 +1,84 @@
+@import '../../stylesheets/_base';
+.homeTab-box{
+    min-height: 1rem ;
+    background: #e6e6e6 ;
+    .tab{
+        height: .4rem ;
+        display: flex ;
+        justify-content: space-around ;
+        align-items: cneter ;
+        background: #fff ;
+        li{
+            width: 50% ;
+            height: 100% ;
+            button{
+                background: none ;
+                border-style: none ;
+                width: 100% ;
+                display: block ;
+                height: 100% ;
+                text-align: center ;
+                font: .15rem/.4rem "" ;
+            }
+            .active{
+                color: $main-color ;
+            }
+        } 
+    }
+    .topImg{
+        a{
+            img{
+                width: 100% ;
+            }
+        }
+    }
+    .itemList{
+        li{
+            height: 1.3rem;
+            position: relative ;
+            background: #fff ;
+            margin-bottom: .1rem ;
+            a{
+                display: block ;
+                width: 100% ;
+                height: 100% ;
+                .itemPic{
+                    width: 100% ;
+                    height: 100% ;
+                    img{
+                        height: 100% ;
+                    }
+                }
+                .cont{
+                    position: absolute ;
+                    z-index: 2 ;
+                    width: 56% ;
+                    height: 100% ;
+                    top: 0;
+                    right: 0;
+                    .title{
+                        font: .14rem/.18rem "" ;
+                        margin: .14rem 0 .12rem 0 ;
+                    }
+                    .price{
+                        position: absolute ;
+                        bottom: .1rem ;
+                        .disc{
+                            font: .2rem/.22rem "" ;
+                            color: #ec1e85 ;
+                        }
+                        .nodisc{
+                            text-decoration: line-through ;
+                            font: .12rem/.14rem "" ;
+                            color: rgb(180, 180, 180) ;
+                        }
+                        .comment{
+                            display: block ;
+                            font: .12rem/.16rem "" ;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,168 @@
+.Centermain-box{
+    margin-top: .1rem ;
+    .myOrder{
+        .o-top{
+            background: #fff ;
+            display: flex ;
+            justify-content: space-between ;
+            align-items: center ;
+            padding-top: .08rem ;
+            padding-bottom: .08rem ;
+            border-bottom: solid .01rem #ececec ;
+            .o-t-left{
+                display: flex ;
+                align-items: center ;
+                padding-left: .1rem ;
+                i{
+                    font-size: .24rem ;
+                }
+                span{
+                    font: .14rem/.2rem "" ;
+                    display: inline-block ;
+                    margin-left: .1rem ;
+                }
+            }
+            .all-order{
+                display: flex ;
+                align-items: center ;
+                padding-right: .1rem ;
+                span{
+                    font: .14rem/.2rem "" ;
+                    display: inline-block ;
+                    margin-right: .1rem ;
+                }
+                i{
+                    font-size: .14rem ;
+                }
+            }
+        }
+        .o-bottom{
+            background: #fff ;
+            ul{
+                height: .7rem ;
+                display: flex ;
+                justify-content: space-around ;
+                align-items: center ;
+                li{
+                    a{
+                        text-align: center ;
+                        display: block ;
+                        i{
+                            font-size: .23rem ;
+                            padding-bottom: .06rem ;
+                        }
+                        span{
+                            display: block ;
+                            font: .12rem/.14rem "" ;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .myAsset{
+        margin-top: .1rem ;
+        background: #fff ;
+        .a-top{     
+            display: flex ;
+            justify-content: space-between ;
+            align-items: center ;
+            padding-top: .08rem ;
+            padding-bottom: .08rem ;
+            border-bottom: solid .01rem #ececec ;
+            .a-t-left{
+                display: flex ;
+                align-items: center ;
+                padding-left: .1rem ;
+                i{
+                    font-size: .24rem ;
+                }
+                span{
+                    font: .14rem/.2rem "" ;
+                    display: inline-block ;
+                    margin-left: .1rem ;
+                }
+            }
+        }
+        .a-bottom{
+            display: flex ;
+            justify-content: space-around ;
+            align-items: center ;
+            height: .41rem ;
+            a{
+                display: block ;
+                font: .14rem/.16rem "" ;
+            }
+        }
+    }
+    .serviceList{  
+        margin-top: .1rem ;
+        ul{
+            background: #fff ;
+            li{
+                height: .35rem ;
+                border-bottom: solid .01rem #ececec ;
+                padding: .05rem 0 ;
+                button{
+                    width: 100% ;
+                    background: #fff ;
+                    border-style: none ;
+                    display: flex ;
+                    justify-content: space-between ;
+                    align-items: center ;
+                    height: 100% ;
+                    .left{
+                        i{
+                            font-size: .24rem ;
+                            padding: 0 .1rem 0 .1rem ;
+                        }
+                        span{
+                            font: .15rem/.3rem "" ;
+                        }
+                    }
+                    .right{
+                        i{
+                            padding-right: .1rem ;
+                        }
+                    }
+                }
+            }
+        }
+        .sign-out{
+            width: 100% ;
+            background: #fff ;
+            border-style: none ;
+            display: flex ;
+            justify-content: space-between ;
+            align-items: center ;
+            height: 100% ;
+            padding: .06rem 0 ;
+            margin-top: .1rem ;
+            .left{
+                i{
+                    font-size: .24rem ;
+                    padding: 0 .1rem 0 .1rem ;
+                }
+                span{
+                    font: .15rem/.3rem "" ;
+                }
+            }
+            .right{
+                i{
+                    padding-right: .1rem ;
+                }
+            }
+        }
+    }
+    .center-footer{
+        margin-top: .1rem ;
+        padding-bottom: 1.4rem ;
+        .c-f-box{
+            padding: .2rem 0 0 .3rem ;
+            p{
+                font: .14rem/.28rem "" ;
+                color: #666 ;
+            }
+        } 
+    }
+}

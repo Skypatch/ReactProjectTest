@@ -1,0 +1,96 @@
+body,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+th,
+td,
+dl,
+dd,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 12px "宋体";
+    word-wrap: break-word;
+}
+
+a,
+u,
+s,
+del {
+    color: #666;
+    text-decoration: none;
+}
+
+fieldset,
+a img,
+.bor0 {
+    border: 0;
+}
+
+i,
+em,
+b {
+    font-style: normal;
+    font-weight: 100;
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.ind2 {
+    text-indent: 2em;
+}
+
+input,
+textarea {
+    outline: none;
+}
+
+
+/*禁止拖动*/
+textarea {
+    resize: none;
+}
+
+/*文本溢出隐藏出现省略号*/
+.over {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 图片水平垂直居中 */
+.valign img {
+    vertical-align: middle;
+}
+
+.valign:after {
+    content: "";
+    vertical-align: middle;
+    display: inline-block;
+    height: 100%;
+}
